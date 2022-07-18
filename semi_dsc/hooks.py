@@ -191,4 +191,4 @@ jenv = {
 	"methods": [
 		"get_img_url:semi_dsc.sales_invoice.get_img_url"
 	]
-}
+}	
